@@ -2,4 +2,4 @@ HELLOO git
 
 First git example!
 
-Share a file upload on girhub!
+Share a file upload on github!
